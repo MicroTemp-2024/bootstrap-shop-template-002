@@ -3,6 +3,11 @@ bootstrap shop template 001 shop-item
 
 ![shop-item-t](/assets/shop-item.png)
 
+
 ![shop-item-b](/assets/shop-item2.png)
+
+
+support responsive website
+
 
 ![shop-item-t](/assets/responsive.png)
